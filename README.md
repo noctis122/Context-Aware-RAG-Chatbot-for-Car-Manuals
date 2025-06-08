@@ -119,11 +119,10 @@ MIT License.
 
 If you found this project interesting or want to collaborate:
 
-* **GitHub:** [yourusername](https://github.com/noctis122)
-* **Email:** [your.email@example.com](mailto:farhatmouhib76@ieee.org)
+* **GitHub:** [noctis122](https://github.com/noctis122)
+* **Email:** [farhatmouhib76@ieee.org](mailto:farhatmouhib76@ieee.org)
 
 ---
 
----
 
 
