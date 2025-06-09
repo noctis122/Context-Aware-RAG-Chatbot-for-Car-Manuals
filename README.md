@@ -5,7 +5,7 @@
 This project is a **proof-of-concept context-aware chatbot** that helps drivers understand their vehicle's warning messages and recommended actions.
 It leverages **Retrieval-Augmented Generation (RAG)** using **LangChain** and an **LLM** (DeepSeek / GPT / other) to answer queries based on a car manual.
 
-The chatbot can be easily extended to support in-car conversational interfaces through **Text-to-Speech (TTS)** systems.
+The chatbot can be easily extended to support in-car conversational interfaces through Text-to-Speech (TTS) systems.
 
 ---
 
